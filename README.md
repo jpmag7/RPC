@@ -4,4 +4,5 @@ The primary goal of this work is to create a very small language model (SLM) wit
 
 [DATASET](https://www.kaggle.com/datasets/pedrocas15/rpc-dataset)
 
-![image](https://github.com/user-attachments/assets/25545d99-fcce-4239-92b0-706dea52d0df)
+![architecture](https://github.com/user-attachments/assets/5c7223cc-a731-4bc2-bc87-507c651215d2)
+
